@@ -119,6 +119,10 @@ helloworld   NodePort   10.102.79.229   <none>        80:30723/TCP   8s
 
 ![部署效果](https://files.javablog.net/k8s/k8s-helloworld.png)
 
+## 脚本下载地址
+
+https://daodaovps.taobao.com
+
 
 ## 微信联系我 
 
