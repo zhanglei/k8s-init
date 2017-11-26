@@ -121,7 +121,7 @@ helloworld   NodePort   10.102.79.229   <none>        80:30723/TCP   8s
 
 ## 脚本下载地址
 
-https://daodaovps.taobao.com
+https://item.taobao.com/item.htm?id=561964949540
 
 
 ## 微信联系我 
@@ -129,7 +129,9 @@ https://daodaovps.taobao.com
 
 ![微信](https://files.javablog.net/k8s/%E5%BE%AE%E4%BF%A1%E8%81%94%E7%B3%BB%E6%88%91.jpg)
 
-from git k8s
+from git k8s  
+
+
 
 
 
