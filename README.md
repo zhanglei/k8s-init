@@ -5,6 +5,8 @@
 
 解决不能访问  gcr.io ，quay.io ，packages.cloud.google.com 的问题。
 
+视频教程  链接: https://pan.baidu.com/s/1c2m565U 密码: c3f4
+
 ## 环境版本
 
 k8s 镜像版本如下  
