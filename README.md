@@ -17,7 +17,7 @@ https://item.taobao.com/item.htm?id=561964949540
 
 系统可以访问到 https://files.javablog.net/k8s/ 
 
-目前只支持  ubuntu 16.04 x64  ， centos 7.4 。master 和 node 机器名不要一样
+目前已测试环境 ubuntu 16.04 x64  ， centos 7.4 。master 和 node 机器名不要一样
 
 建议配置至少 2H 2G 20G 纯净系统
 
