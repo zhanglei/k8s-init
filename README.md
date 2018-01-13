@@ -8,12 +8,16 @@
 视频教程  链接: https://pan.baidu.com/s/1bo5Vh1t 密码: gs2f
 
 
+淘宝提供k8s部署脚本 k8s-init-v1.9.0.sh，同样 环境下100%部署成功。  
+
+https://item.taobao.com/item.htm?id=561964949540
+ 
 
 ## 部署要求
 
 系统可以访问到 https://files.javablog.net/k8s/ 
 
-目前只支持  ubuntu 16.04 x64  ， master 和 node 机器名不要一样
+目前只支持  ubuntu 16.04 x64  ， centos 7.4 。master 和 node 机器名不要一样
 
 建议配置至少 2H 2G 20G 纯净系统
 
