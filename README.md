@@ -5,9 +5,6 @@
 
 解决不能访问  gcr.io ，quay.io ，packages.cloud.google.com 的问题。
 
-视频教程  链接: https://pan.baidu.com/s/1bo5Vh1t 密码: gs2f
-
-
 淘宝提供k8s部署脚本 k8s-init-v1.9.0.sh，同样 环境下100%部署成功。  
 
 https://item.taobao.com/item.htm?id=561964949540
@@ -33,7 +30,7 @@ kubeadm join --token c8d946.3ff186c3d9543949 192.168.2.100:6443 --discovery-toke
 
 node上执行 `./k8s-init-v1.9.0.sh node` 
 
-执行完毕后再执行 master 上输出的join命令。
+执行完毕后再在node上执行刚拷贝出来的join命令。
 
 
 ### 效果截图
