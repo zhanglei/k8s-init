@@ -54,11 +54,5 @@ node上执行 `./k8s-init-v1.9.0.sh node`
 https://item.taobao.com/item.htm?id=561964949540
 
 
-## 脚本使用问题微信联系 
-
-
-![微信](https://files.javablog.net/k8s/%E5%BE%AE%E4%BF%A1%E8%81%94%E7%B3%BB%E6%88%91.jpg)
-
-from k8s  
-
-
+ 
+ 
