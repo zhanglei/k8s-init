@@ -5,7 +5,7 @@
 
 解决不能访问  gcr.io ，quay.io ，packages.cloud.google.com 的问题。
 
-淘宝提供k8s部署脚本 k8s-init-v1.9.0.sh，同样 环境下100%部署成功。  
+淘宝提供k8s部署脚本 k8s-init-v1.9.3.sh，同样 环境下100%部署成功。  
 
 https://item.taobao.com/item.htm?id=561964949540
  
@@ -20,7 +20,7 @@ https://item.taobao.com/item.htm?id=561964949540
 
 ## 使用方法 
 
-master上执行 `./k8s-init-v1.9.0.sh master`
+master上执行 `./k8s-init-v1.9.3.sh master`
 
 拷贝类似如下输出
 
@@ -28,20 +28,17 @@ master上执行 `./k8s-init-v1.9.0.sh master`
 kubeadm join --token c8d946.3ff186c3d9543949 192.168.2.100:6443 --discovery-token-ca-cert-hash sha256:62ac3f587ecaef9b6b924674b9c94e63b75f817c81a6ad500b68b9a4ac7f3b09
 ```
 
-node上执行 `./k8s-init-v1.9.0.sh node` 
+node上执行 `./k8s-init-v1.9.3.sh node` 
 
 执行完毕后再在node上执行刚拷贝出来的join命令。
 
 
 ### 效果截图
 
-![pod状态](http://wx3.sinaimg.cn/large/006qgpQvly1fmkbcxg1ggj30sb0by0vh.jpg)
 
-![traefik web](http://wx3.sinaimg.cn/large/006qgpQvly1fmkbcxc29aj30u90ndwfz.jpg)
+![console](https://img.alicdn.com/imgextra/i2/62227140/TB2sqNUXzQnBKNjSZSgXXXHGXXa_!!62227140.png)
 
-![k8s dashboard](http://wx4.sinaimg.cn/large/006qgpQvly1fmkbcxgxktj31ad0sh41b.jpg)
-
-![部署nginx](https://wx3.sinaimg.cn/mw1024/006qgpQvly1fmkbcxb3sfj30ng0dagm4.jpg)
+![dashboard](https://img.alicdn.com/imgextra/i3/62227140/TB26g0TXtcnBKNjSZR0XXcFqFXa_!!62227140.png)
 
 
 
